@@ -1,0 +1,25 @@
+{
+  "name": "aura-tech-studio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --runInBand --forceExit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andremadeo-byte/aura-tech-studio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/andremadeo-byte/aura-tech-studio/issues"
+  },
+  "homepage": "https://github.com/andremadeo-byte/aura-tech-studio#readme",
+  "devDependencies": {
+    "jest": "^30.3.0",
+    "jsdom": "^24.1.3"
+  }
+}
